@@ -1,0 +1,3 @@
+this is file created to check that the folder gets commited only when it has files inside it.
+
+Empty folders do not get committed.
